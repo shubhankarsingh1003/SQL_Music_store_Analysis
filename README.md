@@ -61,10 +61,10 @@ Below is the ER diagram representing the database schema:
 ---
 
 ## Folder Structure
-'''
+```
 📁 SQL_Music_store_Analysis/
 ├──  README.md
 ├──  Queries.sql
 ├──  MusicDatabaseSchema.png
 └──  LICENSE
-'''
+```
